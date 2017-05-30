@@ -11,8 +11,9 @@
     "test:watch": "npm run test -- -w"
   },
   "dependencies": {
-    "ws": "*",
-    "node-webcrypto-ossl": "*"
+    "nicer-fs": "^1.0.0",
+    "node-webcrypto-ossl": "*",
+    "ws": "*"
   },
   "devDependencies": {
     "async": "*",
